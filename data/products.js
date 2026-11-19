@@ -1,0 +1,18 @@
+export const products = [
+  { id: 1, name: "Maggi Cup Noodles", category: "Snacks", price: 40, stock: 25, studentDeal: true, emoji: "🍜", description: "Instant hot noodles, ready in 3 minutes." },
+  { id: 2, name: "Potato Chips", category: "Snacks", price: 20, stock: 40, studentDeal: true, emoji: "🥔", description: "Crunchy salted chips for study breaks." },
+  { id: 3, name: "Chocolate Bar", category: "Snacks", price: 30, stock: 35, studentDeal: false, emoji: "🍫", description: "Milk chocolate bar." },
+  { id: 4, name: "Peanut Chikki", category: "Snacks", price: 15, stock: 50, studentDeal: true, emoji: "🥜", description: "Traditional peanut and jaggery bar." },
+  { id: 5, name: "Cold Coffee Can", category: "Drinks", price: 60, stock: 12, studentDeal: false, emoji: "☕", description: "Ready-to-drink cold coffee." },
+  { id: 6, name: "Packaged Water 1L", category: "Drinks", price: 20, stock: 60, studentDeal: true, emoji: "💧", description: "Sealed drinking water bottle." },
+  { id: 7, name: "Fruit Juice", category: "Drinks", price: 25, stock: 30, studentDeal: false, emoji: "🧃", description: "Mixed fruit juice carton." },
+  { id: 8, name: "Energy Drink", category: "Drinks", price: 90, stock: 0, studentDeal: false, emoji: "⚡", description: "For long exam nights." },
+  { id: 9, name: "Gel Pen (Pack of 5)", category: "Stationery", price: 50, stock: 30, studentDeal: true, emoji: "🖊️", description: "Smooth blue gel pens." },
+  { id: 10, name: "Ruled Notebook", category: "Stationery", price: 60, stock: 45, studentDeal: false, emoji: "📓", description: "200-page ruled notebook." },
+  { id: 11, name: "Highlighter Set", category: "Stationery", price: 80, stock: 20, studentDeal: false, emoji: "🖍️", description: "Set of 4 colour highlighters." },
+  { id: 12, name: "Sticky Notes", category: "Stationery", price: 35, stock: 28, studentDeal: true, emoji: "🗒️", description: "Pack of 100 sticky notes." },
+  { id: 13, name: "Phone Charging Cable", category: "Essentials", price: 120, stock: 15, studentDeal: false, emoji: "🔌", description: "1m USB charging cable." },
+  { id: 14, name: "Toothpaste", category: "Essentials", price: 55, stock: 22, studentDeal: false, emoji: "🪥", description: "Small toothpaste tube." },
+  { id: 15, name: "Hand Sanitizer", category: "Essentials", price: 45, stock: 18, studentDeal: true, emoji: "🧴", description: "100ml sanitizer bottle." },
+  { id: 16, name: "Exam Week Bundle", category: "Bundles", price: 199, stock: 10, studentDeal: true, emoji: "🎁", description: "Maggi, coffee, pens and highlighters together." },
+];
